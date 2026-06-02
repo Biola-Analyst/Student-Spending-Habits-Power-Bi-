@@ -6,6 +6,13 @@ The project transforms raw student financial data into actionable insights throu
 
 ---
 
+# Dashboard Preview
+
+<img width="930" height="803" alt="Power BI Project Screenshot" src="https://github.com/user-attachments/assets/2c6f5f96-dbee-497e-afc9-5399ae2e65dc" />
+
+
+---
+
 # Project Overview
 
 The purpose of this project is to:
